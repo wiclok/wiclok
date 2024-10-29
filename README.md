@@ -13,4 +13,8 @@
 
   I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
   <br />
+
+  I'm currently based in **[Formosa, Argentina.](https://www.google.com.ar/maps/place/Formosa/@-26.1721501,-58.2361696,13z/data=!3m1!4b1!4m6!3m5!1s0x945ca5e488cf4f05:0xbcaebe65a1bae72!8m2!3d-26.1857768!4d-58.1755669!16zL20vMDFxc3J2?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)**
+
+<br />
 </div>
